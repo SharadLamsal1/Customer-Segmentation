@@ -1,6 +1,6 @@
 # Customer Segmentation using K-Means Clustering
 
-This project applies **K-Means Clustering** algorithm to segment customers based on their purchasing behavior. The dataset is provided in the MallCustomers.csv file.
+This project applies **K-Means Clustering** algorithm to segment customers based on their purchasing behavior, which includes annual income and spending score. The dataset is provided in the MallCustomers.csv file.
 
 ## Features
 - **Data Preprocessing:** Handling missing values and feature selection.
